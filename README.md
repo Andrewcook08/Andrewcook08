@@ -47,8 +47,3 @@ I build production-grade RAG pipelines, fine-tuned LLMs, and large-scale observa
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Andrewcook08)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anco2109@colorado.edu)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrewcook08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
