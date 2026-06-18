@@ -1,6 +1,6 @@
 # Hey, I'm Andrew Cook
 
-**Software Engineer** specializing in AI systems and database infrastructure, completing a B.A. in Computer Science at the University of Colorado Boulder in May 2026.
+**Software Engineer** specializing in AI systems and database infrastructure, holding a B.A. in Computer Science from the University of Colorado Boulder (completed May 2026).
 
 I build production-grade RAG pipelines, fine-tuned LLMs, and large-scale observability platforms. I take initiative to identify better solutions and drive them from proof of concept to production quickly.
 
@@ -8,15 +8,17 @@ I build production-grade RAG pipelines, fine-tuned LLMs, and large-scale observa
 
 ### What I'm Working On
 
-- **Infrastructure Automation Engineer** at Charles Schwab — Building observability platforms for PostgreSQL clusters across 1,000+ nodes using Prometheus, Grafana, and Salt
-- Leading projects end-to-end from POC to production
-- Contributing to agentic AI initiatives with Microsoft Fabric
+- **Infrastructure Automation Engineer** at Charles Schwab — Shipped a self-service, AI-powered observability platform adopted across the Distributed Database Services org, positioning the firm to retire $1.5M in annual vendor licensing costs
+- Contributing to a Databases-as-a-Service (Kubernetes) initiative with $5–7M in projected savings, building agentic workflows and Docker images
+- Leading projects end-to-end from POC to production, and contributing to a multi-agent AI platform initiative
 
 ---
 
 ### Recent Projects
 
-**Patroni PostgreSQL Cluster Observability Platform** — Led initiative to deliver full-stack observability into Patroni-managed PostgreSQL clusters, architecting a Prometheus/Grafana solution and delivering production-grade dashboards in under six weeks
+**Self-Service Database Observability Platform** — Architected and shipped a self-service, AI-powered platform letting any database team build version-controlled Grafana dashboards and alerts through agentic coding tools, going from POC to production in under six weeks (live across 1,000+ PostgreSQL nodes)
+
+**Database-as-a-Service Platform** — Contributing to a Kubernetes-orchestrated containerized database platform with $5–7M in projected savings, building agentic workflows and Docker images across SQL Server and PostgreSQL
 
 **Medical Data Classification & Retrieval System** — Built intelligent search system combining RAG architecture with fine-tuned LLMs for semantic search across 100K+ records
 
@@ -28,15 +30,15 @@ I build production-grade RAG pipelines, fine-tuned LLMs, and large-scale observa
 
 ### Tech Stack
 
-**AI/ML:** Python, RAG/Graph RAG, FAISS, Vector Databases, Hugging Face, Ollama, MLX/Fine-tuning, AWS Bedrock, MCP Servers/Agents, Prompt Engineering
+**AI/ML & Agentic Systems:** RAG/Graph RAG, MCP Servers/Agents, Agentic AI, Agentic Workflows, Agentic Coding Tools (GitHub Copilot, Claude Code), Agent Skills, Context Engineering, Prompt Engineering, Fine-tuning (MLX/LoRA), Hugging Face, Ollama, FAISS, Vector Databases, AWS Bedrock
 
-**Infrastructure:** Ansible, Salt, AAP, Grafana, Prometheus, Docker, Jenkins, Bash
+**Languages:** Python, Java, JavaScript, TypeScript, C/C++, Bash
 
-**Backend:** Java, Spring Boot, Flask, Node.js, REST APIs, ETL Pipelines
+**Frameworks & APIs:** Flask, Spring Boot, Node.js, React, REST APIs
 
-**Databases:** PostgreSQL, MySQL, MongoDB, InfluxDB, SQLite
+**Data & Databases:** PostgreSQL, InfluxDB, MongoDB, MySQL, ETL Pipelines
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS
+**Infrastructure & DevOps:** Docker, Kubernetes, Ansible, Salt, AAP, GitHub Actions, Jenkins, Grafana, Prometheus
 
 ---
 
@@ -46,4 +48,3 @@ I build production-grade RAG pipelines, fine-tuned LLMs, and large-scale observa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-cook-45280430b)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Andrewcook08)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anco2109@colorado.edu)
-
